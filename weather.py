@@ -1,5 +1,6 @@
 import requests
 
+
 # Replace with your OpenWeatherMap API key
 API_KEY = "968a2c1dfc7f032547b949638b833707"
 
