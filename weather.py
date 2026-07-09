@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your OpenWeatherMap API key
-API_KEY = "YOUR_API_KEY"
+API_KEY = "968a2c1dfc7f032547b949638b833707"
 
 CITY = "Balaju,Kathmandu,NP"
 
