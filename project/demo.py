@@ -4,6 +4,8 @@ from tkinter import ttk, messagebox
 from datetime import datetime
 
 
+print("HELLO")
+
 WEATHER_CODES = {
     0: "Clear sky",
     1: "Mainly clear",
