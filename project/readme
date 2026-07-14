@@ -1,0 +1,20 @@
+adadada
+
+d_label = Label(win, text="Weather App",
+                   font=("Time New Roman",40,"bold"))
+d_label.place(x=25,y=50,height=50,width=450)
+
+
+
+m_label = Label(win, text="Weather App",
+                   font=("Time New Roman",40,"bold"))
+m_label.place(x=25,y=50,height=50,width=450)
+
+
+
+l_label = Label(win, text="Weather App",
+                   font=("Time New Roman",40,"bold"))
+l_label.place(x=25,y=50,height=50,width=450)
+
+
+adada dadad
